@@ -1,0 +1,22 @@
+#Vim
+*~
+*.swp
+
+#C/C++
+*.o
+*.d
+*.exe
+
+#Python
+__pycache__
+_venv
+*.py[cod]
+_build
+
+#Mac
+.DS_Store
+
+# AVR
+*.hex
+*.obj
+*.lst
