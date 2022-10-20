@@ -2,7 +2,7 @@
 
 | Web 2.0  | Web 3.0                          |
 |----------|----------------------------------|
-| Chrome   | ![icon-brave][Brave][1]                       |
+| Chrome   | ![icon-brave] [Brave][1]         |
 | GoDaddy  | [ENS (Ethereum Name Service)][2] |
 | Spotify  | [Audius][3]                      |
 | YouTube  | [Odysee][4]                      |
