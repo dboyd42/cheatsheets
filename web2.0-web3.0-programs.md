@@ -2,7 +2,7 @@
 
 | Web 2.0  | Web 3.0                          |
 |----------|----------------------------------|
-| Chrome   | [Brave][1]                       |
+| Chrome   | ![icon-brave][Brave][1]                       |
 | GoDaddy  | [ENS (Ethereum Name Service)][2] |
 | Spotify  | [Audius][3]                      |
 | YouTube  | [Odysee][4]                      |
@@ -24,3 +24,4 @@
 [9]: https://presearch.io/
 [10]: https://metamask.io/
 
+[icon-brave]: ./pictures/brave-browser-icon.png
