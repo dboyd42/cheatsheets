@@ -25,4 +25,4 @@
 [10]: https://metamask.io/
 
 [icon-brave]: ./pictures/brave-browser-icon.png
-[icon-ens]: ./pictures/ens-icon.jpg
+[icon-ens]: ./pictures/ens-icon.png
