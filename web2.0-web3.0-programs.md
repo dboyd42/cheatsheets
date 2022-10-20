@@ -1,17 +1,17 @@
 # Web 2.0 to Web 3.0
 
-| Web 2.0  | Web 3.0                          |
-|----------|----------------------------------|
-| Chrome   | ![icon-brave] [Brave][1]         |
-| GoDaddy  | [ENS (Ethereum Name Service)][2] |
-| Spotify  | [Audius][3]                      |
-| YouTube  | [Odysee][4]                      |
-| Dropbox  | [FileCoin][5]                    |
-| Patreon  | [Fantom][6]                      |
-| WhatsApp | [Status][7]                      |
-| Facebook | [Distrikt][8]                    |
-| Google   | [Presearch][9]                   |
-| PayPal   | [MetaMask][10]                   |
+| Web 2.0  | Web 3.0                                      |
+|----------|----------------------------------------------|
+| Chrome   | ![icon-brave] [Brave][1]                     |
+| GoDaddy  | ![icon-ens] [ENS (Ethereum Name Service)][2] |
+| Spotify  | [Audius][3]                                  |
+| YouTube  | [Odysee][4]                                  |
+| Dropbox  | [FileCoin][5]                                |
+| Patreon  | [Fantom][6]                                  |
+| WhatsApp | [Status][7]                                  |
+| Facebook | [Distrikt][8]                                |
+| Google   | [Presearch][9]                               |
+| PayPal   | [MetaMask][10]                               |
 
 [1]: https://brave.com/
 [2]: https://ens.domains/
@@ -25,3 +25,4 @@
 [10]: https://metamask.io/
 
 [icon-brave]: ./pictures/brave-browser-icon.png
+[icon-ens]: ./pictures/ens-icon.jpg
