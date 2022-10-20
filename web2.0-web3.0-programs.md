@@ -5,13 +5,13 @@
 | Chrome   | ![icon-brave] [Brave][1]                     |
 | GoDaddy  | ![icon-ens] [ENS (Ethereum Name Service)][2] |
 | Spotify  | ![icon-audius] [Audius][3]                   |
-| YouTube  | [Odysee][4]                                  |
-| Dropbox  | [FileCoin][5]                                |
-| Patreon  | [Fantom][6]                                  |
-| WhatsApp | [Status][7]                                  |
-| Facebook | [Distrikt][8]                                |
-| Google   | [Presearch][9]                               |
-| PayPal   | [MetaMask][10]                               |
+| YouTube  | ![icon-odysee] [Odysee][4]                   |
+| Dropbox  | ![icon-filecoin] [FileCoin][5]               |
+| Patreon  | ![icon-fantom] [Fantom][6]                   |
+| WhatsApp | ![icon-status] [Status][7]                   |
+| Facebook | ![icon-distrikt] [Distrikt][8]               |
+| Google   | ![icon-presearch] [Presearch][9]             |
+| PayPal   | ![icon-metamask] [MetaMask][10]              |
 
 [1]: https://brave.com/
 [2]: https://ens.domains/
@@ -20,10 +20,17 @@
 [5]: https://filecoin.io/
 [6]: https://fantom.foundation/
 [7]: https://status.im/
-[8]: https://www.distrikt.org/
+[8]: https://www.distrikt.io/
 [9]: https://presearch.io/
 [10]: https://metamask.io/
 
 [icon-brave]: ./pictures/brave-browser-icon.png
 [icon-ens]: ./pictures/ens-icon.png
 [icon-audius]: ./pictures/audius-icon.png
+[icon-odysee]: ./pictures/odysee-icon.png
+[icon-filecoin]: ./pictures/filecoin-icon.png
+[icon-fantom]: ./pictures/fantom-icon.png
+[icon-status]: ./pictures/status-icon.png
+[icon-distrikt]: ./pictures/distrikt-icon.png
+[icon-presearch]: ./pictures/presearch-icon.png
+[icon-metamask]: ./pictures/metamask-icon.png
