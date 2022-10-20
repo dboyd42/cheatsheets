@@ -4,7 +4,7 @@
 |----------|----------------------------------------------|
 | Chrome   | ![icon-brave] [Brave][1]                     |
 | GoDaddy  | ![icon-ens] [ENS (Ethereum Name Service)][2] |
-| Spotify  | [Audius][3]                                  |
+| Spotify  | ![icon-audius] [Audius][3]                   |
 | YouTube  | [Odysee][4]                                  |
 | Dropbox  | [FileCoin][5]                                |
 | Patreon  | [Fantom][6]                                  |
@@ -26,3 +26,4 @@
 
 [icon-brave]: ./pictures/brave-browser-icon.png
 [icon-ens]: ./pictures/ens-icon.png
+[icon-audius]: ./pictures/audius-icon.png
