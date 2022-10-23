@@ -1,4 +1,3 @@
-<
 # List of Cheat Sheets
 
 ## General IT Security
