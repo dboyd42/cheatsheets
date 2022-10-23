@@ -20,6 +20,6 @@
 ## Other
 
 
-##### References
+### References
 
-[SANS](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/)
+[List of SANS Cheat Sheets](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/)
