@@ -2,6 +2,9 @@
 *~
 *.swp
 
+#Ghostwriter
+.backup
+
 #C/C++
 *.o
 *.d
