@@ -2,6 +2,8 @@
 
 ## General IT Security
 
+  - [Powershell v4.0](./general-itsec/powershell-v4.0.pdf)
+
 ## Digital Forensics and Incident Response
 
   - [JSON and `jq` Quick Start Guide](./dfir/json-jq-query.pdf)
