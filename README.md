@@ -5,6 +5,7 @@
 ## Digital Forensics and Incident Response
 
   - [JSON and `jq` Quick Start Guide](./dfir/json-jq-query.pdf)
+  - [Wireshark](./dfir/wireshark.pdf)
 
 ## Offensive Opeations
 
