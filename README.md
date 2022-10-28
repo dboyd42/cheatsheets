@@ -22,6 +22,8 @@
 
 ### Offensive Opeations
 
+  - [WAPT Checklist (2018)](./cybersec/offsec/wapt-checklist-2018.pdf)
+
 ### Cloud Security
 
 ### Industrial Control Systems (ICS)
