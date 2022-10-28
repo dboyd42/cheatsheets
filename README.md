@@ -3,7 +3,7 @@
 <!-- COMPARISONS ------------------------------------------------------------->
 ## Comparisons
 
-  - [Web 2.0 -vs- Web 3.0](./cmp/web2.0-web3.0-programs.md)
+  - [Web 2.0 *to* Web 3.0](./cmp/web2.0-web3.0-programs.md)
 
 <!-- CYBERSECURITY ----------------------------------------------------------->
 ## Cybersecurity
