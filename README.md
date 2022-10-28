@@ -23,6 +23,7 @@
 ### Offensive Opeations
 
   - [WAPT Checklist (2018)](./cybersec/offsec/wapt-checklist-2018.pdf)
+  - [WAPT Mindmap by Joas](./cybersec/offsec/wapt-mindmap-joas.pdf)
 
 ### Cloud Security
 
