@@ -7,6 +7,7 @@
 ## Digital Forensics and Incident Response
 
   - [JSON and `jq` Quick Start Guide](./dfir/json-jq-query.pdf)
+  - [SANS DFIR Cheat Sheets & Notebooks](./dfir/sans-dfir-cheatsheets-notebook.pdf)
   - [TShark Guide (booklet)](./dfir/tshark-guide.pdf)
   - [Wireshark](./dfir/wireshark.pdf)
 
