@@ -38,6 +38,10 @@
   - [Markdown](./editors/markdown.md)
     - [Ultimate Markdown Cheat Sheet](https://towardsdatascience.com/the-ultimate-markdown-cheat-sheet-3d3976b31a0)
 
+<!-- PROGRAMMING LANGUAGES --------------------------------------------------->
+## Programming Languages
+  - [Bash Pocket Reference](./programming/bash-pkt-ref.pdf)
+
 ### References
 
 [List of SANS Cheat Sheets](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/)
