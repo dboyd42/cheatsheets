@@ -14,6 +14,7 @@
 
 ### Digital Forensics and Incident Response
 
+  - [IR Cheat Sheet: Windows & Linux](./cybersec/dfir/ir-linux-windows.pdf)
   - [JSON and `jq` Quick Start Guide](./cybersec/dfir/json-jq-query.pdf)
   - [SANS DFIR Cheat Sheets & Notebooks](./cybersec/dfir/sans-dfir-cheatsheets-notebook.pdf)
   - [TShark Guide (booklet)](./cybersec/dfir/tshark-guide.pdf)
