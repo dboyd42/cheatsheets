@@ -24,13 +24,13 @@
 [9]: https://presearch.io/
 [10]: https://metamask.io/
 
-[icon-brave]: ./pictures/brave-browser-icon.png
-[icon-ens]: ./pictures/ens-icon.png
-[icon-audius]: ./pictures/audius-icon.png
-[icon-odysee]: ./pictures/odysee-icon.png
-[icon-filecoin]: ./pictures/filecoin-icon.png
-[icon-fantom]: ./pictures/fantom-icon.png
-[icon-status]: ./pictures/status-icon.png
-[icon-distrikt]: ./pictures/distrikt-icon.png
-[icon-presearch]: ./pictures/presearch-icon.png
-[icon-metamask]: ./pictures/metamask-icon.png
+[icon-brave]: ../pictures/brave-browser-icon.png
+[icon-ens]: ../pictures/ens-icon.png
+[icon-audius]: ../pictures/audius-icon.png
+[icon-odysee]: ../pictures/odysee-icon.png
+[icon-filecoin]: ../pictures/filecoin-icon.png
+[icon-fantom]: ../pictures/fantom-icon.png
+[icon-status]: ../pictures/status-icon.png
+[icon-distrikt]: ../pictures/distrikt-icon.png
+[icon-presearch]: ../pictures/presearch-icon.png
+[icon-metamask]: ../pictures/metamask-icon.png

@@ -1,29 +1,46 @@
 # List of Cheat Sheets
 
-## General IT Security
+<!-- COMPARISONS ------------------------------------------------------------->
+## Comparisons
 
-  - [Powershell v4.0](./general-itsec/powershell-v4.0.pdf)
+  - [Web 2.0 -vs- Web 3.0](./cmp/web2.0-web3.0-programs.md)
 
-## Digital Forensics and Incident Response
+<!-- CYBERSECURITY ----------------------------------------------------------->
+## Cybersecurity
 
-  - [JSON and `jq` Quick Start Guide](./dfir/json-jq-query.pdf)
-  - [SANS DFIR Cheat Sheets & Notebooks](./dfir/sans-dfir-cheatsheets-notebook.pdf)
-  - [TShark Guide (booklet)](./dfir/tshark-guide.pdf)
-  - [Wireshark](./dfir/wireshark.pdf)
+### General IT Security
 
-## Offensive Opeations
+  - [Powershell v4.0](./cybersec/general/powershell-v4.0.pdf)
 
-## Cloud Security
+### Digital Forensics and Incident Response
 
-## Industrial Control Systems (ICS)
+  - [JSON and `jq` Quick Start Guide](./cybersec/dfir/json-jq-query.pdf)
+  - [SANS DFIR Cheat Sheets & Notebooks](./cybersec/dfir/sans-dfir-cheatsheets-notebook.pdf)
+  - [TShark Guide (booklet)](./cybersec/dfir/tshark-guide.pdf)
+  - [Wireshark](./cybersec/dfir/wireshark.pdf)
 
-## Cybersecurity Leadership
+### Offensive Opeations
 
-## All Around Defender Primers
+### Cloud Security
 
-## Other
+### Industrial Control Systems (ICS)
 
+### Cybersecurity Leadership
+
+### All Around Defender Primers
+
+<!-- EDITORS ----------------------------------------------------------------->
+## Editors
+
+  - [Markdown](./editors/markdown.md)
+    - [Ultimate Markdown Cheat Sheet](https://towardsdatascience.com/the-ultimate-markdown-cheat-sheet-3d3976b31a0)
 
 ### References
 
 [List of SANS Cheat Sheets](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/)
+
+<!--
+Markdown: https://www.markdownguide.org/cheat-sheet
+Powershell v4: https://assets.contentstack.io/v3/assets/blt36c2e63521272fdc/bltf146e4f361db3938/5e34a7bc946d717e2eab6139/power-shell-cheat-sheet-v41.pdf
+Wireshark: https://www.comparitech.com/net-admin/wireshark-cheat-sheet/
+-->
