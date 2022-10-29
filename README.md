@@ -33,6 +33,8 @@
 
 ### Cybersecurity Leadership
 
+  - [SOC Analyst Interview Questions](./cybersec/leadership/soc-analyst-interview-questions.pdf)
+
 ### All Around Defender Primers
 
 <!-- EDITORS ----------------------------------------------------------------->
