@@ -23,6 +23,7 @@
 ### Offensive Opeations
 
   - [OSINT Tools List (21)](./cybersec/osint/osint-tools-list-21.pdf)
+  - [WAPT Bug Bounty Platforms List](./cybersec/offsec/wapt-bug-bounty-platforms-list.md)
   - [WAPT Checklist (2018)](./cybersec/offsec/wapt-checklist-2018.pdf)
   - [WAPT OWASP WSTG v4.2](./cybersec/offsec/wapt-owasp-wstg-v4.2-2022.pdf)
   - [WAPT Mindmap by Joas](./cybersec/offsec/wapt-mindmap-joas.pdf)
