@@ -23,6 +23,7 @@
 ### Offensive Opeations
 
   - [WAPT Checklist (2018)](./cybersec/offsec/wapt-checklist-2018.pdf)
+  - [WAPT OWASP WSTG v4.2](./cybersec/offsec/wapt-owasp-wstg-v4.2-2022.pdf)
   - [WAPT Mindmap by Joas](./cybersec/offsec/wapt-mindmap-joas.pdf)
 
 ### Cloud Security
