@@ -29,6 +29,7 @@
   - [WebApp Authentication Types: Session (Strategy)](./cybersec/offsec/pics/auth/wapt-auth-type-sess-strategy.jpeg)
   - [WebApp Authentication Types: SSO](./cybersec/offsec/pics/auth/wapt-auth-type-sso.jpeg)
   - [WebApp Authentication Types: Token](./cybersec/offsec/pics/auth/wapt-auth-type-token.jpeg)
+  - [WAPT Bug Bounty GitBook of Tips](https://gowsundar.gitbook.io/book-of-bugbounty-tips/)
   - [WAPT Bug Bounty Platforms List](./cybersec/offsec/wapt-bug-bounty-platforms-list.md)
   - [WAPT Checklist (2018)](./cybersec/offsec/wapt-checklist-2018.pdf)
   - [WAPT Kali Tools List](./cybersec/offsec/wapt-kali-tools-list.md)
