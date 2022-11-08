@@ -55,8 +55,16 @@
 
 <!-- PROGRAMMING LANGUAGES --------------------------------------------------->
 ## Programming Languages
+
   - [Bash Pocket Reference](./programming/bash-pkt-ref.pdf)
   - [Qiskit Cheatsheet](./programming/qiskit-tcs.pdf)
+
+<!-- OTHER ------------------------------------------------------------------->
+## Other
+
+### Financial
+
+  - [Equity 101 - Glossary](./other/financial/equity-101-glossary.pdf)
 
 ### References
 
