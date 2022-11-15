@@ -62,6 +62,11 @@
   - [Bash Pocket Reference](./programming/bash-pkt-ref.pdf)
   - [Qiskit Cheatsheet](./programming/qiskit-tcs.pdf)
 
+<!-- SOFTWARE ---------------------------------------------------------------->
+## Software
+
+  - [AWS Security Guide](./software/aws-security-guide.pdf)
+
 <!-- OTHER ------------------------------------------------------------------->
 ## Other
 
