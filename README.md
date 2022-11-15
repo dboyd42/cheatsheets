@@ -11,6 +11,7 @@
 ### General IT Security
 
   - [Powershell v4.0](./cybersec/general/powershell-v4.0.pdf)
+  - [SANS Faculty-Created Tools List](./cyversec/general/sans-faculty-created-tools-list.pdf)
 
 ### Digital Forensics and Incident Response
 
@@ -18,10 +19,12 @@
   - [JSON and `jq` Quick Start Guide](./cybersec/dfir/json-jq-query.pdf)
   - [SANS DFIR Cheat Sheets & Notebooks](./cybersec/dfir/sans-dfir-cheatsheets-notebook.pdf)
   - [TShark Guide (booklet)](./cybersec/dfir/tshark-guide.pdf)
+  - [Windows Event Log Analysis & IR](./cybersec/dfir/win-event-log-analysis-ir.pdf)
   - [Wireshark](./cybersec/dfir/wireshark.pdf)
 
 ### Offensive Opeations
 
+  - [NETW Buffer Overflow Guide](./cybersec/offsec/bo-guide.pdf)
   - [OSINT Tools List (21)](./cybersec/osint/osint-tools-list-21.pdf)
   - [WebApp Authentication Types: Basic](./cybersec/offsec/pics/auth/wapt-auth-type-basic.jpeg)
   - [WebApp Authentication Types: JWT](./cybersec/offsec/pics/auth/wapt-auth-type-jwt.jpeg)
@@ -61,6 +64,9 @@
 
 <!-- OTHER ------------------------------------------------------------------->
 ## Other
+
+  - [Docker Guide](./other/docker-guide.pdf)
+  - [Numbering Systems Conversion (Dec/Bin/Hex)](./0d0b0x-conversion-chart.pdf)
 
 ### Financial
 
