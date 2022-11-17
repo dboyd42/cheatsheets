@@ -1,5 +1,7 @@
 # List of Cheat Sheets
 
+**NOTE: Will be re-organizing to a one page index soon**
+
 <!-- COMPARISONS ------------------------------------------------------------->
 ## Comparisons
 
