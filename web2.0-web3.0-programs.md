@@ -70,16 +70,16 @@ institutions.
 [spof]: https://en.wikipedia.org/wiki/Single_point_of_failure
 [w3]: https://en.wikipedia.org/wiki/Web3
 
-[icon-brave]: ../pictures/brave-browser-icon.png
-[icon-ens]: ../pictures/ens-icon.png
-[icon-audius]: ../pictures/audius-icon.png
-[icon-odysee]: ../pictures/odysee-icon.png
-[icon-filecoin]: ../pictures/filecoin-icon.png
-[icon-fantom]: ../pictures/fantom-icon.png
-[icon-status]: ../pictures/status-icon.png
-[icon-distrikt]: ../pictures/distrikt-icon.png
-[icon-presearch]: ../pictures/presearch-icon.png
-[icon-metamask]: ../pictures/metamask-icon.png
+[icon-brave]: ./pictures/brave-browser-icon.png
+[icon-ens]: ./pictures/ens-icon.png
+[icon-audius]: ./pictures/audius-icon.png
+[icon-odysee]: ./pictures/odysee-icon.png
+[icon-filecoin]: ./pictures/filecoin-icon.png
+[icon-fantom]: ./pictures/fantom-icon.png
+[icon-status]: ./pictures/status-icon.png
+[icon-distrikt]: ./pictures/distrikt-icon.png
+[icon-presearch]: ./pictures/presearch-icon.png
+[icon-metamask]: ./pictures/metamask-icon.png
 
 [img-bbd]: https://en.wikipedia.org/wiki/File:Bitcoin_Block_Data.svg
 
