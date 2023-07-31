@@ -21,7 +21,6 @@
 * [Risky Functionality - Card Payment](#Card)
 * [HTML 5](#HTML)
 
-
 ## <a name="Recon_on_wildcard_domain">Recon on wildcard domain</a>
 
 - [ ] Run amass<br/>
@@ -31,7 +30,6 @@
 - [ ] Run massdns<br/>
 - [ ] Use httprobe<br/>
 - [ ] Run aquatone (screenshot for alive host)<br/>
-
 
 ## <a name="Single_domain">Single Domain</a><br/>
 
@@ -70,7 +68,6 @@
 - [ ] Identify third-party hosted content<br/>
 - [ ] Identify Debug parameters<br/>
 
-
 ### <a name="Configuration">Configuration Management</a>
 
 - [ ] Check for commonly used application and administrative URLs<br/>
@@ -82,7 +79,6 @@
 - [ ] Test for non-production data in live environment, and vice-versa<br/>
 - [ ] Check for sensitive data in client-side code (e.g. API keys, credentials)<br/>
 
-
 ### <a name="Transmission">Secure Transmission</a>
 
 - [ ] Check SSL Version, Algorithms, Key length<br/>
@@ -91,8 +87,6 @@
 - [ ] Check that the login form is delivered over HTTPS<br/>
 - [ ] Check session tokens only delivered over HTTPS<br/>
 - [ ] Check if HTTP Strict Transport Security (HSTS) in use<br/>
-
-
 
 ### <a name="Authentication">Authentication</a>
 - [ ] Test for user enumeration<br/>
@@ -112,8 +106,6 @@
 - [ ] Test for out-of channel notification of account lockouts and successful password changes<br/>
 - [ ] Test for consistent authentication across applications with shared authentication schema / SSO<br/>
 
-
-
 ### <a name="Session">Session Management</a>
 - [ ] Establish how session management is handled in the application (eg, tokens in cookies, token in URL)<br/>
 - [ ] Check session tokens for cookie flags (httpOnly and secure)<br/>
@@ -129,15 +121,12 @@
 - [ ] Test for session puzzling<br/>
 - [ ] Test for CSRF and clickjacking<br/>
 
-
-
 ### <a name="Authorization">Authorization</a>
 - [ ] Test for path traversal<br/>
 - [ ] Test for bypassing authorization schema<br/>
 - [ ] Test for vertical Access control problems (a.k.a. Privilege Escalation)<br/>
 - [ ] Test for horizontal Access control problems (between two users at the same privilege level)<br/>
 - [ ] Test for missing authorization<br/>
-
 
 ### <a name="Validation">Data Validation</a>
 - [ ] Test for Reflected Cross Site Scripting<br/>
@@ -178,7 +167,6 @@
 - [ ] Test for HTTP protocol DoS<br/>
 - [ ] Test for SQL wildcard DoS<br/>
 
-
 ### <a name="Business">Business Logic</a>
 - [ ] Test for feature misuse<br/>
 - [ ] Test for lack of non-repudiation<br/>
@@ -186,14 +174,12 @@
 - [ ] Test for integrity of data<br/>
 - [ ] Test segregation of duties<br/>
 
-
 ### <a name="Cryptography">Cryptography</a>
 - [ ] Check if data which should be encrypted is not<br/>
 - [ ] Check for wrong algorithms usage depending on context<br/>
 - [ ] Check for weak algorithms usage<br/>
 - [ ] Check for proper use of salting<br/>
 - [ ] Check for randomness functions<br/>
-
 
 ### <a name="File">Risky Functionality - File Uploads</a>
 - [ ] Test that acceptable file types are whitelisted<br/>
@@ -204,7 +190,6 @@
 - [ ] Test that uploaded files are not directly accessible within the web root<br/>
 - [ ] Test that uploaded files are not served on the same hostname/port<br/>
 - [ ] Test that files and other media are integrated with the authentication and authorisation schemas<br/>
-
 
 ### <a name="Card">Risky Functionality - Card Payment</a>
 - [ ] Test for known vulnerabilities and configuration issues on Web Server and Web Application<br/>
@@ -218,7 +203,6 @@
 - [ ] Test for all vulnerabilities with a CVSS v2 score > 4.0<br/>
 - [ ] Test for Authentication and Authorization issues<br/>
 - [ ] Test for CSRF<br/>
-
 
 ### <a name="HTML">HTML 5</a>
 - [ ] Test Web Messaging<br/>
